@@ -1,4 +1,4 @@
-## Hi there, I'm Jovana Jakovljević 
+## Hi there, I'm Jovana Jakovljević!
 
 <h4>💼 I’m currently employed as a Junior Software Developer at OVII Technologies (https://ovii.tech/) in Novi Sad, Serbia.</h4>
 <h4>👩‍💻 I'm currently researching about React. </h4>
@@ -15,6 +15,8 @@
   <img align="left" alt="C++" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
   <img align="left" alt="HTML" width="36px" src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" />
   <img align="left" alt="CSS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>

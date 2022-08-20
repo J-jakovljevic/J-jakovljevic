@@ -3,8 +3,8 @@
 <h4>💼 I’m currently employed as a Software Developer at OVII Technologies (https://ovii.tech/) in Novi Sad, Serbia.</h4>
 <h4>👩‍💻 I'm currently researching about React. </h4>
 <h4>🎓 I graduated from the Faculty of Technical Sciences, University of Novi Sad as a Bachelor with Honours in Electrical and Computer Engineering.</h4>
-<br>
-## Feel free to connect with me:  [<img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin] 
+
+## Feel free to connect with me on LinkedIn: [<img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin] 
 <br>
 ### 🖥 Skills:
  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

@@ -5,7 +5,7 @@
 <h4>🎓 I graduated from the Faculty of Technical Sciences, University of Novi Sad as a Bachelor with Honours in Electrical and Computer Engineering.</h4>
 <br/>
 
-### 🖥 Skills:
+### Skills:
  <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img align="left" alt="React" width="36px" src="https://reactjs.org/logo-og.png" />
   <img align="left" alt="Angular" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />

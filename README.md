@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-                                                                #### Feel free to connect with me on LinkedIn: [<img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin] 
+<p align="right"> #### Feel free to connect with me on LinkedIn: [<img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin] </p>
 
 
 ---

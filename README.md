@@ -4,8 +4,6 @@
 <h4>👩‍💻 I'm currently researching about React. </h4>
 <h4>🎓 I graduated from the Faculty of Technical Sciences, University of Novi Sad as a Bachelor with Honours in Electrical and Computer Engineering.</h4>
 
-#### Feel free to connect with me on LinkedIn: [<img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin] 
-
 
 ### 🖥 Skills:
  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -19,7 +17,9 @@
   <img align="left" alt="CSS" width="26px" src="https://i.pinimg.com/736x/e4/3e/4c/e43e4cd41ddffc21d2e6600dfca20306--logo-software-logotype.jpg" />
 <br>
 
-<br />
+
+#### Feel free to connect with me on LinkedIn: [<img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin] 
+
 
 ---
 

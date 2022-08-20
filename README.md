@@ -19,9 +19,8 @@
 <br/>
 <br/>
 
-<p align="right"> #### Feel free to connect with me on LinkedIn: [<img alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin] </p>
+#### Feel free to contact me:
+<img align="left"  width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />: linkedin.com/in/j-jakovljevic/
+<img align="left"  width="36px" src="https://i.pinimg.com/originals/1b/22/fd/1b22fd858e93265a3a2fa2060cfc1219.jpg" />: jovanajako@hotmail.com
 
 
----
-
-[linkedin]: https://www.linkedin.com/in/j-jakovljevic/

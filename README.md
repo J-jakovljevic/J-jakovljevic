@@ -14,7 +14,7 @@
    <img align="left" alt="Java SpringBoot" width="40px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />
   <img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
   <img align="left" alt="HTML" width="40px" src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" />
-  <img align="left" alt="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+  <img align="left" alt="CSS" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
 <br/>
 <br/>
 <br/>

@@ -5,12 +5,7 @@
 <h4>🎓 I graduated from the Faculty of Technical Sciences, University of Novi Sad as a Bachelor with Honours in Electrical and Computer Engineering.</h4>
 <br>
 
-###🌎 Feel free to connect with me: 
-[<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="Email" width="30px" src="https://i.pinimg.com/originals/1b/22/fd/1b22fd858e93265a3a2fa2060cfc1219.jpg" />] : jovanajako@hotmail.com
-
-<br>
-
+### 🌎 Feel free to connect with me: [<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 <br>
 

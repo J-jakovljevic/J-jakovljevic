@@ -7,7 +7,7 @@
 
 ### Skills:
   <img align="left" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" title="React" width="40px" src="http://ibthemespro.com/docs/beny/img/side-nav/cmm4.png" />
+  <img align="left" title="React" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" />
   <img align="left" title="Angular" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
   <img align="left" title="Vue" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" />
   <img align="left" title="HTML" width="40px" src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" />

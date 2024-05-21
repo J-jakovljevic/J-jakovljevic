@@ -1,6 +1,6 @@
 ## Hi there, I'm Jovana Jakovljević
 
-<h4>💼 I’m currently employed as a Software Engineeer at OVII Technologies in Novi Sad, Serbia.</h4>
+<h4>💼 I’m currently employed as a Frontend Software Engineeer at nQode Software Company in Novi Sad, Serbia.</h4>
 <h4>👩‍💻 I'm currently researching about React, JavaScript and TypeScript. </h4>
 <h4>🎓 I graduated from the Faculty of Technical Sciences, University of Novi Sad as a Bachelor with Honours in Electrical and Computer Engineering.</h4>
 <br/>

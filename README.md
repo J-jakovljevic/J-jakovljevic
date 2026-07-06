@@ -59,7 +59,7 @@ You'll find a selection of personal projects and technical explorations in my re
 
 ## 📫 Get in Touch
 
-- LinkedIn: https:/linkedin.com/in/j-jakovljevic
+- LinkedIn: https://linkedin.com/in/j-jakovljevic
 - Email: jovanajako@icloud.com
 - Portfolio: https://jovanajakovljevic.com/
 
